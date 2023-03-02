@@ -4,20 +4,22 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-  <title>Quiz | Teste seus conhecimentos em DOM JavaScript!</title>
+  <title>Quiz | Test your knowledge in JavaScript DOM!</title>
 </head>
 <body>
-  <nav class="navbar navbar-light bg-warning">
-    <a class="navbar-brand" href="#">
-      <img src="./img/js-logo.svg" width="30" height="30" class="d-inline-block align-top" alt="">
-    </a>
-  </nav>
   <div class="intro py-3 bg-warning text-center">
     <div class="container">
       <h2 class="text-dark display-3 my-4">Quiz</h2>
     </div>
   </div>
-
+  <div class="final-score-container py-4 d-none bg-light text-center">
+    <div class="container lead">
+      <p>Você acertou 
+        <span class="text-primary display-4 p-3">0%</span>
+        do quiz!
+      </p>
+    </div>
+  </div>
   <div class="quiz py-4 bg-dark">
     <div class="container">
       <h2 class="my-5 text-white">Test your knowledge in JavaScript DOM!</h2>
@@ -34,6 +36,18 @@
           <div class="form-check my-2 text-white-50">
             <label class="form-check-label">
               <input type="radio" name="inputQuestion1" value="B">
+              create.tag()
+            </label>
+          </div>
+          <div class="form-check my-2 text-white-50">
+            <label class="form-check-label">
+              <input type="radio" name="inputQuestion1" value="C">
+              elementCreate()
+            </label>
+          </div>
+          <div class="form-check my-2 text-white-50">
+            <label class="form-check-label">
+              <input type="radio" name="inputQuestion1" value="D">
               createElement() 
             </label>
           </div>
@@ -53,6 +67,18 @@
               classList.add()
             </label>
           </div>
+          <div class="form-check my-2 text-white-50">
+            <label class="form-check-label">
+              <input type="radio" name="inputQuestion2" value="C">
+              addClassList()
+            </label>
+          </div>
+          <div class="form-check my-2 text-white-50">
+            <label class="form-check-label">
+              <input type="radio" name="inputQuestion2" value="D">
+              createDefaul()
+            </label>
+          </div>
         </div>
 
         <div class="my-5">
@@ -66,7 +92,19 @@
           <div class="form-check my-2 text-white-50">
             <label class="form-check-label">
               <input type="radio" name="inputQuestion3" value="B">
+              style.element
+            </label>
+          </div>
+          <div class="form-check my-2 text-white-50">
+            <label class="form-check-label">
+              <input type="radio" name="inputQuestion3" value="C">
               element.style
+            </label>
+          </div>
+          <div class="form-check my-2 text-white-50">
+            <label class="form-check-label">
+              <input type="radio" name="inputQuestion3" value="D">
+              element.add.style
             </label>
           </div>
         </div>
@@ -76,13 +114,25 @@
           <div class="form-check my-2 text-white-50">
             <label class="form-check-label">
               <input type="radio" name="inputQuestion4" value="A" checked>
-              value
+              target
             </label>
           </div>
           <div class="form-check my-2 text-white-50">
             <label class="form-check-label">
               <input type="radio" name="inputQuestion4" value="B">
-              target
+              value
+            </label>
+          </div>
+          <div class="form-check my-2 text-white-50">
+            <label class="form-check-label">
+              <input type="radio" name="inputQuestion4" value="C">
+              form
+            </label>
+          </div>
+          <div class="form-check my-2 text-white-50">
+            <label class="form-check-label">
+              <input type="radio" name="inputQuestion4" value="D">
+              addEventListener
             </label>
           </div>
         </div>
