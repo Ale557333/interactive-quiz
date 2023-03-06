@@ -1,13 +1,13 @@
-const form = document.querySelector(".quiz-form")
-const finalScoreContainer = document.querySelector(".final-score-container")
+const form = document.querySelector('.quiz-form')
+const finalScoreContainer = document.querySelector('.final-score-container')
 
 const correctAnswers = ["D", "B", "C", "A"]
 
 let score = 0
 
 const getUserAnswers = () => {
-  const userAnswers = []
-
+  let userAnswers = []
+  
   correctAnswers.forEach((_, index) => {
     const userAnswer = form[`inputQuestion${index + 1}`].value
     userAnswers.push(userAnswer)
@@ -51,7 +51,7 @@ form.addEventListener('submit', event => {
   event.preventDefault()
 
   const userAnswers = getUserAnswers()
-  
+
   calculateUserScore(userAnswers)
   showFinalScore()
   animateFinalScore()
