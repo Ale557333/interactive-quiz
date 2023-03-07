@@ -52,4 +52,4 @@ In the "JavaScript DOM Quiz" project, the DOM is used to create and manipulate H
 
 ---
 
-Agradecimentos ao Professor @Roger-Melo
+Thanks to Professor @Roger-Melo
