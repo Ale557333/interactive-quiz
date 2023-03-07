@@ -5,7 +5,7 @@ https://
 ---
 
 
-# 🌐Index
+# Index
 
 - [Description](#-description)
 - [Features:](#-features)
@@ -15,14 +15,14 @@ https://
 
 ---
 
-## 🖋 Description
+## Description
 
 
 This project is an interactive quiz that tests your knowledge of JavaScript DOM.
 
 ---
 
-## 🖋 Features:
+## Features:
 
 
 - Multiple choice questions that cover a range of topics related to JavaScript DOM
@@ -30,7 +30,7 @@ This project is an interactive quiz that tests your knowledge of JavaScript DOM.
 
 ---
 
-## 🌎 How to access
+## How to access
 
 - [Link do surge]
 
