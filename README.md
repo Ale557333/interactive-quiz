@@ -42,6 +42,7 @@ In the "JavaScript DOM Quiz" project, the DOM is used to create and manipulate H
 
 - [Link do surge]
 
+---
 
 ## 🚀 Stacks
 
