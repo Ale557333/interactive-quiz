@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/71138743/223298892-e4fcc9f7-f91d-4c53-
 
 ---
 
-## Features
+## 🎯 Features
 
 
 This project is an interactive quiz that tests your knowledge of JavaScript DOM.
@@ -14,7 +14,7 @@ This project is an interactive quiz that tests your knowledge of JavaScript DOM.
 
 ---
 
-## Description:
+## 📝 Description:
 
 
 ## What is DOM in JavaScript?
@@ -29,7 +29,7 @@ In the "JavaScript DOM Quiz" project, the DOM is used to create and manipulate H
 
 ## 🌎 How to access
 
-- [Link do surge]
+- [[Link do surge](https://rad-alpaca-58f33c.netlify.app/)]
 
 ---
 
