@@ -29,7 +29,7 @@ In the "JavaScript DOM Quiz" project, the DOM is used to create and manipulate H
 
 ## 🌎 How to access
 
-- [[Link do surge](https://rad-alpaca-58f33c.netlify.app/)]
+- [[Surge link](https://rad-alpaca-58f33c.netlify.app/)]
 
 ---
 
