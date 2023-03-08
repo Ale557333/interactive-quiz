@@ -8,8 +8,8 @@ https://user-images.githubusercontent.com/71138743/223298892-e4fcc9f7-f91d-4c53-
 # Index
 
 - [Features](#-features)
-- [Description:](#-description)
-- [How to access:](#-how-to-access)
+- [Description](#-description)
+- [How to access](#-how-to-access)
 - [Stacks](#-stacks)
 
 
