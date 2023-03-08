@@ -49,7 +49,3 @@ In the "JavaScript DOM Quiz" project, the DOM is used to create and manipulate H
 -   JavaScript
 -   HTML
 -   Bootstrap
-
----
-
-Thanks to Professor @Roger-Melo
